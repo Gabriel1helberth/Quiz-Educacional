@@ -148,6 +148,7 @@ MathDF/
 
 ## 📋 Documentação
 | Documento | Conteúdo |
+|----------------|-----------|
 | README.md | Visão geral do projeto. |
 | elicitacao_5w2h.md |5W2H, requisitos, público-alvo, stakeholders, custo computacional. |
 |LICENSE | Licença MIT.|
